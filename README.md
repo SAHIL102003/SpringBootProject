@@ -9,7 +9,7 @@ Database: MySQL
 Machine Learning: Natural Language Processing (NLP) techniques (if applicable)
 Other Tools: Spring Tool Suite (STS), Git & GitHub, Postman (for API testing)
 
-Features:
+**Features:**
 ✔ User Authentication & Role-Based Access – Secure login system for different users
 ✔ Sentiment Classification – Categorizes text into positive, negative, or neutral sentiment
 ✔ Data Processing & Storage – Extracts, processes, and stores social media data in MySQL
@@ -18,14 +18,14 @@ Features:
 ✔ Custom Filtering & Search – Allows users to analyze sentiments based on keywords, hashtags, or timeframes
 ✔ Error Handling & Logging – Robust error handling and logging with Spring Boot Actuator
 
-Project Workflow:
+**Project Workflow:**
 Data Collection: Fetches social media posts (manually or via APIs)
 Preprocessing: Cleans text by removing special characters, stop words, etc.
 Sentiment Analysis: Uses text classification algorithms (Rule-based, ML, or AI-based models)
 Storage: Stores analyzed data in MySQL
 Visualization: Displays results in ReactJS-based UI
 
-Impact & Applications:
+**Impact & Applications:**
 ✅ Brand Monitoring: Helps businesses track customer feedback on products
 ✅ Political & Social Trends: Analyzes public opinion on current events
 ✅ Customer Support: Automates response prioritization based on sentiment
