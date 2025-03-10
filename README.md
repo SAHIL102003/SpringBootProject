@@ -3,11 +3,11 @@ Overview:
 The Sentiment Analysis of Social Media Data project is a web-based application that analyzes user-generated content from social media platforms to determine the sentiment behind posts, comments, and messages. This system classifies sentiments such as positive, negative, and neutral, helping businesses, researchers, and individuals understand public opinion on various topics.
 
 **Technologies Used:**
-Backend: Java, Spring Boot (Spring MVC, Spring Data JPA)
-Frontend: ReactJS, Bootstrap
-Database: MySQL
-Machine Learning: Natural Language Processing (NLP) techniques (if applicable)
-Other Tools: Spring Tool Suite (STS), Git & GitHub, Postman (for API testing)
+Backend: Java, Spring Boot (Spring MVC, Spring Data JPA)__
+Frontend: ReactJS, Bootstrap__
+Database: MySQL__
+Machine Learning: Natural Language Processing (NLP) techniques (if applicable)__
+Other Tools: Spring Tool Suite (STS), Git & GitHub, Postman (for API testing)__
 
 **Features:**
 ✔ User Authentication & Role-Based Access – Secure login system for different users
