@@ -1,4 +1,4 @@
-**Sentiment Analysis of Social Media Data**
+# Sentiment Analysis of Social Media 
 Overview:
 The Sentiment Analysis of Social Media Data project is a web-based application that analyzes user-generated content from social media platforms to determine the sentiment behind posts, comments, and messages. This system classifies sentiments into categories such as positive, negative, and neutral, helping businesses, researchers, and individuals understand public opinion on various topics.
 
