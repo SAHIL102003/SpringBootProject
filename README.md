@@ -27,9 +27,9 @@ Other Tools: Spring Tool Suite (STS), Git & GitHub, Postman (for API testing)
 
 **📊 Output:**
 The system analyzes input text and provides a sentiment classification result:
-🔹Positive 
-🔹Neutral 
-🔹Negative 
+🔹Positive   
+🔹Neutral   
+🔹Negative   
 
 **Impact:**    
 ✅ Helps businesses and organizations understand public sentiment towards products, services, and trends.  
