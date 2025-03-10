@@ -9,14 +9,6 @@ Frontend: ReactJS, Bootstrap
 Database: MySQL     
 Other Tools: Spring Tool Suite (STS), Git & GitHub, Postman (for API testing)  
 
-**🔹Features:**  
-✔ User Authentication & Role-Based Access – Secure login system for different users  
-✔ Sentiment Classification – Categorizes text into positive, negative, or neutral sentiment  
-✔ Data Processing & Storage – Extracts, processes, and stores social media data in MySQL  
-✔ RESTful APIs – Backend APIs to fetch and analyze social media content   
-✔ Custom Filtering & Search – Allows users to analyze sentiments based on keywords, hashtags, or timeframes  
-✔ Error Handling & Logging – Robust error handling and logging with Spring Boot Actuator  
-
 **🔄 Project Workflow:**  
 1️⃣ Data Collection: Fetches social media posts (manually or via APIs)    
 2️⃣ Preprocessing: Cleans text by removing special characters, stop words, etc.  
@@ -29,7 +21,3 @@ The system analyzes input text and provides a sentiment classification result:
 🔹Positive     
 🔹Neutral   
 🔹Negative   
-
-**Impact:**    
-✅ Helps businesses and organizations understand public sentiment towards products, services, and trends.  
-✅ Customer Support: Businesses can detect customer dissatisfaction from feedback and reviews.    
